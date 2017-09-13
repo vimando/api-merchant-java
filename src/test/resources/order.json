@@ -1,0 +1,31 @@
+{
+  "id": "1000",
+  "country": "DE",
+  "currency": "EUR",
+  "locale": "de",
+  "customer": {
+    "city": "Berlin",
+    "country": "DE",
+    "email": "customer@gmail.com",
+    "firstname": "Customer",
+    "lastname": "customer",
+    "salutation": "1",
+    "street": "Customerstreet",
+    "streetAdditional": "",
+    "streetNumber": "3",
+    "zip": "80000"
+  },
+  "positions": [
+    {
+      "count": 1,
+      "parameters": [
+        {
+          "height": 390,
+          "type": "FormatDimension",
+          "width": 260
+        }
+      ],
+      "sku": "WP10004939-0-387"
+    }
+  ]
+}
