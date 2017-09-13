@@ -33,4 +33,4 @@ Visit the repository page here: [api-merchant-java](https://jitpack.io/#vimando/
 ```
 
 ## Sample
-The folder "sample" contains a maven project with an sample client application. 
+The folder [sample](sample) contains a maven project with a sample client application. 
