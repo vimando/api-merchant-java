@@ -27,7 +27,7 @@ Visit the repository page here: [api-merchant-java](https://jitpack.io/#vimando/
         <dependency>
             <groupId>com.github.vimando</groupId>
             <artifactId>api-merchant-java</artifactId>
-            <version>0.1</version>
+            <version>0.2</version>
         </dependency>
     </dependencies>
 ```
